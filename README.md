@@ -1,1 +1,1 @@
-# db2022ver2
+# edu-intro-java
