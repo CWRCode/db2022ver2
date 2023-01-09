@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="se.iths.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-13T01:31:37" hostname="DESKTOP-QOGHFT2" time="0.041">
+  <properties/>
+  <testcase name="shouldTestSomething()" classname="se.iths.AppTest" time="0.041"/>
+  <system-out><![CDATA[Testing World
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

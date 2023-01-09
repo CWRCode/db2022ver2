@@ -1,1 +1,2 @@
-rootProject.name = 'edu-intro-java'ninclude('app')
+rootProject.name = 'db2022ver2'
+include('app')
