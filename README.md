@@ -1,6 +1,6 @@
 # edu-intro-java
 
-´´´mermaid
+```mermaid
 
 erDiagram
     Student ||--o{ Phone : has
