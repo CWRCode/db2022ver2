@@ -1,6 +1,6 @@
 # edu-intro-java
 
-erDiagram
+classDiagram
     Student ||--o{ Phone : has
     Student }|--o| Grade : has
     Student ||--o{ StudentSchool : attends
@@ -48,5 +48,4 @@ erDiagram
         int GradeId
         string name
     }
-
 
